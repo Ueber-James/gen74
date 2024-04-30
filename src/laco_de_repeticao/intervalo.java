@@ -1,4 +1,3 @@
-package gen7408;
 
 import java.util.Scanner;
 
